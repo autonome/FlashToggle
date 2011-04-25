@@ -2,7 +2,7 @@
     "name": "flashtoggle", 
     "license": "MPL", 
     "author": "Dietrich Ayala", 
-    "version": "0.3",
+    "version": "0.4",
     "fullName": "FlashToggle", 
     "id": "jid0-YDAKXmNpT5o9cU0xOQm54Z8IMwo", 
     "description": "Adds a widget in the Firefox 4 add-on bar that enables or disables the Flash plugin."
